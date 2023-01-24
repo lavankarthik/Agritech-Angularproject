@@ -1,0 +1,14 @@
+.service-item {
+    background: #fcfefe;
+    transition: .5s;
+    }
+    .service-item:hover {
+    margin-top: -20px;
+    background: #8eb29a;
+    }
+    .service-item * {
+    transition: .5s;
+    }
+    .service-item:hover * {
+    color: #97256d !important;
+    }
